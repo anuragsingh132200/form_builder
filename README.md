@@ -66,7 +66,7 @@ Follow these steps to set up and use TechoForm on your system.
 
 1. Clone the TechoForm repository:
 
-git clone https://github.com/TusharTechs/techoform.git
+git clone https://github.com/anuragsingh132200/form_builder.git
 
 2. Navigate to the project directory:
 
